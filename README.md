@@ -44,15 +44,15 @@ Once installed run `npm run start`
 
 ## What it looks like
 
-![GET Singles](/assets/get-single-tag-product-category.mp4)
+![GET Singles](/assets/get-single-tag-product-category.gif))
 
 <br>
 
-### [GET All](/assets/get-all.mp4)
+![GET All](/assets/get-all.gif)
 
 <br>
 
-![POST, PUT, DELETE](/assets/post-put-delete.mp4)
+![POST, PUT, DELETE](/assets/post-put-delete.gif)
 
 <br>
 
